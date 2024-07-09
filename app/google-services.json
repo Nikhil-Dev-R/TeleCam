@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577268659554",
+    "project_id": "telecam-cb1ab",
+    "storage_bucket": "telecam-cb1ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577268659554:android:e85c8558069bdc89cd683b",
+        "android_client_info": {
+          "package_name": "com.rudraksha.telecam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyById9b6NAlGqSf7d5xo5kI5TVdWWWtjVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

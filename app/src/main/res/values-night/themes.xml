@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TeleCam" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <!--<style name="Theme.TeleCam" parent="Base.Theme.TeleCam">
+
+        <item name="colorPrimary">#008B8B</item>
+        <item name="colorPrimaryDark">#FFFFFF</item>
+        <item name="colorAccent">#c2bdbf</item>
+        <item name="colorSecondary">#00FFFF</item>
+    </style>-->
+</resources>
